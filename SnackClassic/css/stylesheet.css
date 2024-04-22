@@ -54,3 +54,9 @@
 .start:hover {
     cursor: pointer;
 }
+
+.strong{
+    color: #fff;
+    padding: 5px 5px;
+    background-color: #000;
+}
